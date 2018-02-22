@@ -2,6 +2,8 @@
 A system which stores and displays appointments
 
 ## Instructions
+This code works on both python 2.7.6 and 3.6.2
+
 Make sure you have the requirements
 
     pip install requirements.txt

@@ -25,6 +25,8 @@ The description field may not work on Internet Explorer.
 
 This was accomplished using only GET requests which is a bad practice. The Add Appointment functionality should be achieved using a POST request.
 
+Vulnerable to SQL Injections (Needs sanitation)
+
 ## Credit and Sources
 For better looking tables:
 http://cssmenumaker.com/blog/stylish-css-tables-tutorial/

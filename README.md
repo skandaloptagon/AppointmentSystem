@@ -19,7 +19,6 @@ Alternatively, you may edit the hostname, portnumber, and database file name. Fo
     python RestAPI -h
 
 ## Known Issues
-I deleted the fonts to satisfy GitHubs 100 file upload limit through the browser. Things may not be as beautiful as I like.
 
 The description field may not work on Internet Explorer.
 

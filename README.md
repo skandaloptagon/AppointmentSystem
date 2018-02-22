@@ -10,7 +10,7 @@ Then call RestAPI.py
 
     python RestAPI.py
 
-This will run in localhost:80 so you just need to open your browser and enter `localhost`
+This will run in localhost:80 by default, so you just need to open your browser and enter `localhost`
 
 Alternatively, you may edit the hostname, portnumber, and database file name. For more info:
 

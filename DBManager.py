@@ -9,8 +9,8 @@ import sqlite3
 
 class DBManager:
 
-    def __init__(self):
-        self.conn = sqlite3.connect("test.db")
+    def __init__(self, dbfile):
+        self.conn = sqlite3.connect(dbfile)
 
         self.c = self.conn.cursor()
 

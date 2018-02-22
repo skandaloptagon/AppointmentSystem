@@ -23,6 +23,8 @@ I deleted the fonts to satisfy GitHubs 100 file upload limit through the browser
 
 The description field may not work on Internet Explorer.
 
+This was accomplished using only GET requests which is a bad practice. The Add Appointment functionality should be achieved using a POST request.
+
 ## Credit and Sources
 For better looking tables:
 http://cssmenumaker.com/blog/stylish-css-tables-tutorial/
